@@ -1,4 +1,4 @@
-# gSender Paper Tools Plugin
+# Paper Tools gSender Plugin
 A NodeJs script that runs the remote version of [gSender](https://sienci.com/gsender/) and allows it to be controlled by [Paper Tools](https://www.papertools.ai/)
 
 Originally created to work on my Shapeoko 2 CNC Router, this is a starting point for controlling your CNC through gSender with Paper Tools. The script facillitates communication using a TCP connection to Paper Tools and control of gSender through Puppeteer to control your CNC
